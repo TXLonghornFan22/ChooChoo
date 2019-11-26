@@ -1,4 +1,5 @@
 #!/bin/bash
+apt install sl
 while true
 do
 sl
